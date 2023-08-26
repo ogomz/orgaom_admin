@@ -1,0 +1,8 @@
+Tareas para el 08/03/2023
+- Leer el manual de tesis sobre abstracts
+- Leer en internet como se hace una introducción
+- Leer en internet como hacer una conclusión
+- Copiar el alcance del documento anterior al nuevo
+- Realizar 7 a 8 requerimientos no funcionales
+- Terminar seudo requerimientos 
+- Terminar los 3 objetivos

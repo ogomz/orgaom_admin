@@ -1,0 +1,15 @@
+Control de Sesión
+-----------------
+1- En el acceso usar array $_SESSION
+	para guardar datos de logueo
+	si login correcto
+		$_SESSION["usuario"] = $usuario
+
+2- En cada ventana, en cada lista, en cada abm
+	controlar que antes el array $_SESSION
+	este creado.
+
+3- Si me loguee en una pc a fundación X y todas
+	las fundaciones se manejan en esa PC
+	con un solo login, se puede entrar a todas
+	las fundaciones.

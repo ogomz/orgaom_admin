@@ -1,0 +1,21 @@
+	Lista de Publicaciones
+Nuevo(+)
+Nombre Sitio		Estado		Fecha		Version	ID	Acciones
+escuela-solidaria.org	Baja		10/01/2012	1.0	1	E	B
+escuela-solidaria.org	Baja		12/02/2014	1.1	2	E	B
+escuela.org		Pubblicado	05/08/2020	2.0	3	E	B
+
+
+///////////////////////////////////////
+
+	Publicación
+Fundación:		[ Fundación Escuela Solidaria ]
+Proveedor URL:		[ http://herokou.com/ ]
+Nombre Sitio:		___escuela_solidaria_______
+Versión:			______V 3.0__________::  
+Estado:			[ Publicado / Baja ]
+Usuario:			j.espinola Juan Espinola
+
+
+	Pendiente
+		|_ Publicado

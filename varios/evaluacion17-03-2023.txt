@@ -1,0 +1,48 @@
+1- La carátula hay
+que actualizar.
+
+2- No cuenta con abstract
+
+3- La introducción esta
+bien escrito pero no
+corresponde al tema.
+
+4- Se debe describir
+una fundación en el estado
+actual en la que estaba
+antes del proyecto.
+
+5- Crear un plan de proyecto
+Con meta, objetivos,
+alcances y limitaciones.
+
+6- Falta Metodología y 
+Herramientas
+
+7- Hay requerimientos
+funcionales, no hay
+No Funcionales ni Seudo.
+
+8- Hacer una sola lista
+de casos de uso
+
+9- Se habla de Scrum
+pero no se aplica, se pasa
+directo a UML
+
+10- En el UML falta
+completar las secciones
+de CU, ej. Mantenter
+nueva solicitud??? (de que)
+Por cada CU, falta clases
+y secuencia
+
+11- Falta diseño de interfaces
+
+12- Falta manual de usuario
+
+13- Falta anexos (glosario)
+Bibliografía
+
+14- La tipografía no corresponde
+al solicitado en el manual de tesis.

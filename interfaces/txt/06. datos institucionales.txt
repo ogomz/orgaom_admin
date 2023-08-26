@@ -1,0 +1,25 @@
+NO TIENE LISTA
+Sistema Web
+
+	Datos Institucionales
+	---------------------
+Razón Social:	[ Fundación E. Solidaria ] No modificable
+RUC:		[ 80080063-9 ] No modificable
+Dirección:	Azara 595
+Barrio:		Centro_____::
+Ciudad:		[ Asunción ]	Dpto. [ Capital ]
+Teléfono:	+595 448998
+Email:		escuela.solidaria@gmail.com
+Rubro:		[ ___Educación___:: ]
+Propósito:	LLevar a todos los 
+		niños la educación.
+		________________
+Fecha Fundación: 05/08/2020 ::
+
+Detalle de Documentos	=> no editable
+---------------------------------------
+1	Acta de Fundación	_/home/var/solidaria/01.jpg
+2	Certificado de		_/home/var/solidaria/02.jpg 
+	Autenticidad
+
+	Actualizar

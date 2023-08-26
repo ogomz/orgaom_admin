@@ -1,0 +1,45 @@
+url: www.orgaom.com.py/solicitud/#pedido.php
+
+	Formulario				* Tabla Solicitudes
+Solicitud de Servicio Orga OM para:
+Fecha:	__/__/____ __:__
+Observación: 
+
+----- Datos de la Fundacion -------------
+Razon Social:	Escuela Solidaria		* Tabla fundaciones
+Ruc:		______-_
+Dirección:	_______________
+Barrio:		__Pto. Pabla________:: <- Precargados
+Ciudad:		[ Lambaré ] Dpto. [ Central ]
+Rubro:		Asistencia Social___::
+		Educación	     X
+		Salud Fisica
+		Salud Mental
+		Desarrollo Social
+Telefono:	+595 21 888556
+Propósito:	Educar a todos los niños
+Fecha Fundación	__/__/____ ::
+Email		_______________________::
+
+---- Datos del Solicitante -------
+Nombre:		Eusebio Buongermini		* Tabla Personas Fundación
+Documento:	1855585
+Dirección:	_________________
+Celular:	____________
+Linea Baja:	____________
+Email:		__e.buonger@gmail.com__
+Cargo:		___Propietario___::
+
+---- Documentos Anexos -----------
+#	Descripción		Imagen		* Documentos Adjuntos
+1	Constancia Legal	/home/var/img.jpg
+2	Doc. Identidad Repr	/home/var/rep.png
+
+
+	Enviar
+
+---------------------------------------------
+- Barrios precargados con departamentos, ciudades
+  si no hay colocar "a definir"
+- Enviar un correo de aviso a solicitante, administrador general
+  con una copia de la solicitud en pdf

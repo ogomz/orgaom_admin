@@ -1,0 +1,22 @@
+	Lista de Roles
+Nuevo(+)
+Nombre			Activo	ID	Acciones
+Administrador Fundación	 √ 	1	E	B
+Encarg. Noticias	 √	2	E	B
+Encarg. Eventos		 X	3	E	B
+-------------------------------------------------
+	Rol de Usuario  (Volver)
+Fundación:	[ Escuela Solidaria ]
+Nombre:		Administrador Fundación
+Activo:		✔
+
+Permisos
+Nombre				Habilitado
+1	Roles			✔
+2	Permisos		✔
+3	Voluntarios		✔
+4	Publicaciones		✔
+....
+
+
+	Agregar

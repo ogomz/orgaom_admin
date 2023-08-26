@@ -1,0 +1,21 @@
+url: www.orgaom/solicitud/#verificacion.php
+
+		Acceso Verificación OrgaOM
+		Usuario:	_________
+		Clave:		_______________
+
+		Ingresar	Cancelar
+
+///////////////////////////////////////////////////////////////////
+	Solicitudes
+#	ID	Fundación	Solicitante	Estado		Motivo	Usuario		Acción
+1	1045	Liga Solidaria	James Bond	Rechazado ::	No anda	[ h.diaz ]	Ver
+2	1047	Mi 1a Casa	Pedro Allen	Aceptado  ::		[ z.gonzales ]	Ver
+
+		Actualizar
+
+- Si usuario coloca rechzado, debe colocar el motivo y se actualiza
+la solicitud
+- Si usuario coloca aceptado, se crea un usuario para solicitante con el correo
+del solicitante, genera contraseña y envia al correo del solicitante, poner
+rol administrador x defecto.

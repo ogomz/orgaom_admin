@@ -1,0 +1,25 @@
+	Lista de Habilitaciones
+Nuevo(+)
+No Timbrado	Fecha Fin	Estado	Tipo	ID	Acciones
+777776		25/05/2023	Activo	Virtual	1	E	B
+------------------------------------------------------------------
+	Habilitación (Volver)
+Fundación:	[ Escuela Solidaria ]
+RUC:		[ 800344-6 ]
+No Timbrado:	777776
+Fecha Inicio:	25/05/2022
+Fecha Fin:	25/05/2023
+Establecimiento: 001
+Pto. Expedición: 003
+Código Control:	 AAAAAA
+Rango Inicial:	 1
+Rango Final:	 999999
+Rango Actual:	 0
+Activo:		 x Si   o No
+Tipo:		 o Físico  x Virtual  o Electrónico
+
+	Agregar
+-------------------------------------------
+- Controlar solo un timbrado vigente por vez.
+- No duplicar nro timbrado
+- Ejemplo: 001-003-0000001

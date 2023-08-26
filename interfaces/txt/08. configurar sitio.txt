@@ -1,0 +1,109 @@
+
+Lista de Sitios Creados
+
+Nuevo (+)
+Versión	Fecha Creación		Fundación	Usuario	  Estado  	Acciones
+0.1	22/05/2022 07:50	E.Solidaria	d.trejo	  Reemplazado 	Ver
+0.2	22/06/2022 14:30	E.Solidaria	a.araujo  Publicado	Ver
+
+Copiar de >> _____________::
+
+Fundación:	[ Escuela Solidaria ]
+Fecha Creación:	22/05/2022 07:50
+Usuario:	d.trejo
+Estado:		[ Pendiente / Publicado / Reemplazado]
+Versión:	0.1
+
+-------- CONFIGURACIÓN SITIO ------------------------------------
+Configure el color, la fuente, el logo, el encabezado y el pie
+del sitio.
+							
+1. SELECTOR DE COLOR	[verde, rojo, amarillo, celeste, purpura]
+
+2. SELECTOR DE FUENTE	[san serif, verdana, tahoma, arial, times ]
+
+3. CARGAR LOGO		_/home/fundaciones/solidaria/logo.jpg___::
+
+	[  Miniatura del Logo     ]
+
+4. ENCABEZADO		
+	4.1		Imagen de Fondo
+			_____________________________________::
+	4.2		Texto sobre Imágen
+			El Paraguay educado que todos queremos!!!
+5. PIE
+			Dirección:	______________________
+			Teléfono:	_____________
+			Email:		_______________________
+			Seguinos
+			✅	Facebook	_www.facebok.com/fundaciones.com.py
+			✅	Instagram	________________________
+			❎	Twitter		________
+			✅	Youtube		__________________________
+			✅	LinkedIn	__________________________
+				
+-----------------------------------------------
+
+6. MÓDULOS
+	Haga clic en el modulo deseado
+
+	6.1 HISTORIA			✅	✅
+	6.2 EVENTOS			❎	❎
+	6.3 NOTICIAS			✅	❎
+	6.4 FORMULARIO DE VOLUNTARIOS	✅	❎
+	6.5 CONTACTOS			✅	❎
+	6.6 DONACIONES			✅	❎
+	...
+
+-- Se sacan estas secciones.
+/* 7. HISTORIA -------------------------------
+Indique una historia..
+
+	Historia
+
+ DESCRIPCION
+ 
+ _______________________________________
+ _______________________________________
+ _______________________________________
+ 
+ Imagen Historia
+ ------------------------------------------
+
+
+
+8. NOTICIAS -------------------------------
+Indique Una Noticia
+
+
+	NO SE ENCONTRADO DATOS DE NOTICAS /
+	VISTA PREVIA DE NOTICIAS
+
+			Vista Previa
+
+
+9. FORMULARIO DE VOLUNTARIOS --------------
+
+
+	VISTA PREVIA DEL FORMULARIO 
+	Form
+	
+	
+	
+10. CONTACTOS ------------------------------
+
+
+
+	VISTA PREVIA DE DATOS DE CONTACTO */
+
+
+
+....
+					[ VISTA PREVIA ]
+
+	Actualizar		Cancelar
+
+------------------------------------------------------------------
+
+- Validar que por lo menos una sección este marcada para la creación del sitio
+- No habilitar donaciones, a menos que no haya un token para la fundación

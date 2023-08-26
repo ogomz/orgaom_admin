@@ -1,0 +1,6 @@
+Titulo:
+Fecha de evento: 
+Imagen:
+Descripcion corta:
+Descripcion:
+Fecha de publicacion: (fecha del sistema)

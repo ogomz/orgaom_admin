@@ -1,0 +1,10 @@
+	Lista de Cargos
+Nuevo(+)
+Nombre		ID	Acciones
+Recepcionista	 1	E	B
+
+----------------------------------
+	Lista de Cargos (Volver)
+Nombre:		Recepcionista
+
+	Agregar

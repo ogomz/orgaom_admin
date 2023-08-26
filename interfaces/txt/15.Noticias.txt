@@ -1,0 +1,7 @@
+Titulo:
+Fecha de publicacion: (La fecha del sistema)
+Imagen:
+Copete:(es una descripcion corta)
+Descripcion:
+publicar: (es un estado activo/inactivo)
+

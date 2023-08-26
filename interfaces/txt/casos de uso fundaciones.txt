@@ -1,0 +1,38 @@
+/////// Superadministración /////////////
+Solicitar Servicio			ok
+Verificar Solicitud			ok
+	Crear Fundación
+	Crear usuario
+	Enviar notificación y credenciales
+////////////////////////////////////////
+
+/////////// Autogestión Fundación /////////
+Ingresar Sistema Fundación		ok
+Actualizar Información Institucional	ok
+Cambiar Contraseña			ok
+Crear Sitio Fundación			ok
+Registrar Habilitación SET		ok
+	Factura Virtual
+Registrar Proveedor Cobro		ok
+Registrar Token para Cobro		--
+Publicar Sitio				ok
+Mantener Rol				ok
+Establecer Permisos			ok
+Mantener Usuario Fundación		ok
+Mantener Noticia  			ok
+Mantener Evento	  			ok
+Realizar Donación Monetaria		ok
+	PagoExpress	PagoPar
+Emitir Comprobante Donación		ok
+Recibir Donación Proveedor		ok
+Registrar Solicitud Voluntariado
+Verificar Voluntario (aceptacion / rechazo)
+Notificar Mensajes
+Presentar Resumen Informes (dashboard)
+Informar Donacion (rango de Fecha)
+Informar Voluntarios (solicitudes)
+Informar Notificaciones
+Informar Noticias y Eventos (rango de fecha)
+Informar Usuarios
+Informar Auditoria
+

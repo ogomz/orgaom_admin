@@ -1,0 +1,6 @@
+- Incorporar la donación con multiples 
+  monedas. Determinar el país, la moneda
+  del país y el método cambiario.
+
+
+http://www.heroku/apps/myscholl.org

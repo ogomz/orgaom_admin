@@ -1,0 +1,9 @@
+Sistema Administrador de Fundaciones
+
+	Login de Usuario
+	User:		[ingrese su correo]
+	Contraseña:	**************
+
+		Acceder
+	
+	

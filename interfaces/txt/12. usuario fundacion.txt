@@ -1,0 +1,24 @@
+	Lista de Personas de Fundación
+Nuevo(+)
+Nombre		Documento	Cargo		ID	Acciones
+Eusebio Pacheco	3336667		Reportero	5	E	B
+
+
+---- Persona de Fundación (Volver) -------
+Nombre:		Eusebio Pacheco
+Documento:	3336667
+Dirección:	______X___________
+Barrio:		Sajonia   Ciudad: [Asunción] Dpto.: [Central]
+Celular:	______0______
+Linea Baja:	____________
+Email:		__e.pacheco@gmail.com__
+Cargo:		___Reportero___::
+Rol:		___Noticias ______::
+Estado:		x Activo   o Inactivo
+
+	Agregar
+
+--------------------------------------
+- ID de fundación en variable de Sesion, viene de usuario root
+  de fundación.
+- Crea usuario con nombre de correo y password generado.

@@ -1,0 +1,19 @@
+	Lista de Personas de Fundación
+Nuevo(+)
+Razon Social	Documento	ID	Acciones
+BANCARD SA	8002445-8	5	E	B
+
+
+---- Proveedor de Cobro (Volver)-------
+Razón Social:	PagoPar
+RUC:		8002445-8
+Dirección:	______Centro 473___________
+Barrio:		Centro   Ciudad: [Asunción] Dpto.: [Central]
+Teléfono:	098812222
+Email:		__e.pacheco@gmail.com__
+Logo:		_____________________::
+	
+	Agregar
+
+--------------------------------------
+No duplicar RUC

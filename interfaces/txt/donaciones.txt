@@ -1,0 +1,26 @@
+
+	Url: www......./....com.py
+
+	Realice sus donaciones
+	============================================
+
+	[ SIN PROVEEDOR, CONSULTE CON SU ASESOR ]
+
+	Para donar voluntariamente:
+
+	Tipo Documento:	RUC / CI / Otro
+	Documento:	____5287555____- 2
+	Nombre:		_Perla Gonzalez de Gimenez__
+	Dirección:	____________________________
+	Barrio:		____________________▼
+	Ciudad:______		Dpto.: ____________	
+	E-mail:		perla@hotmail.com
+	Monto:		_____30.000_________▼
+
+
+		[ Donar ]	[ Cancelar ]	
+-
+	-----------------------------------
+		La donación está a cargo de: 
+		Pagopar [ logo ]
+	------------------------------------

@@ -1,0 +1,14 @@
+NO TIENE LISTA
+
+	Cambiar Contraseña
+
+	Usuario:	[ s.rodas@mifuncación.com.py ]
+	Clave:		********
+	
+	Nueva Clave:	********
+	Confrimación:	********
+
+		Actualizar
+
+- Digitar la clave actual
+- Digitar la nueva clave, comprobar la confirmación.
